@@ -1,0 +1,27 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "this is my first basic backend deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harsuji/backend.git"
+  },
+  "keywords": [
+    "node",
+    "practise"
+  ],
+  "author": "Aditya Soni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harsuji/backend/issues"
+  },
+  "homepage": "https://github.com/Harsuji/backend#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.1"
+  }
+}
